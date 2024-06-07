@@ -2,7 +2,7 @@
 2 - instalar as dependencias (npm install)
 3 - rodar o projeto: npm run dev
 
-link do video do tutorial: https://youtube.co
+link do video: https://youtu.be/eeljN4HlQfE
 
 
 
